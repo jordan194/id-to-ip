@@ -2,7 +2,7 @@
 
 # this is a id to ip do not use this on poeple that u dont know.
 
-# i will give u the link to the id to ip
+# go to tags and click on v1 and download it.
 
 # "how do i start the id to ip?"
 
