@@ -10,6 +10,4 @@
 
 # just put there the id and u got it
 
-# oh yeah btw heres the link https://gofile.io/d/REiUVY copy and paste it
-
-# if it doesnt work please add me on discord and we will talk about it glitchy0.
+# if it doesnt work then it doesnt work or u can try downloading python 3.9.
